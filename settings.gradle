@@ -1,0 +1,3 @@
+include ':breakpad-wrapper'
+include ':app'
+rootProject.name = "breakpad-ndk"
