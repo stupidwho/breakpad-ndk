@@ -1,0 +1,3 @@
+[submodule "breakpad-wrapper/breakpad"]
+	path = breakpad-wrapper/breakpad
+	url = https://github.com/stupidwho/breakpad.git
